@@ -161,7 +161,7 @@ export default function App() {
             >
               <div className="relative group">
                 <img 
-                  src="me.jpg" 
+                  src="me2.jpg" 
                   alt="Braeden Songer" 
                   className="w-full max-w-md aspect-[4/3] object-cover grayscale hover:grayscale-0 transition-all duration-700 border-8 border-white shadow-[20px_20px_0px_theme('colors.neon-orange')]"
                   referrerPolicy="no-referrer"
